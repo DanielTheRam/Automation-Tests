@@ -2,10 +2,6 @@
 Documentation     Cvičení: práce s promennými
 
 
-
-Library    Collections
-Resource    ../../OLD/Aneta Krejčová/DU3/prihlaseni.robot
-
 *** Variables ***
 
 
